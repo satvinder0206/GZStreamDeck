@@ -1,4 +1,6 @@
-GZ Stream Deck 🎛️
+<h1?GZ Stream Deck<h1/> 🎛️
+
+
 
 GZ Stream Deck is a custom, fully open-source hardware and software ecosystem designed for streaming, productivity, and granular per-application audio control.
 
