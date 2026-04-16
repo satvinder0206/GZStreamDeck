@@ -1,4 +1,4 @@
-<h1?GZ Stream Deck<h1/> 🎛️
+<h1>GZ Stream Deck<h1/> 🎛️
 
 
 
